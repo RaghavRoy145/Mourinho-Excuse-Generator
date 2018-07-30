@@ -1,0 +1,27 @@
+/* MAIN PAGE*/
+
+body{
+    background-color: #da0813;
+}
+.man-utd{
+    position: absolute;
+    width: 20%;
+    height: 15%;
+    left: 40%;
+    top: 2%;
+}
+.excuse{
+    position: absolute;
+    top: 25%;
+    width: 90%;
+    text-align: center;
+    left: 5%;
+    font-size: 300%;
+    font-family: 'Open Sans', sans-serif;
+}
+.hint{
+    position: absolute;
+    bottom: 2%;
+    width: 100%;
+    text-align: center;
+}
